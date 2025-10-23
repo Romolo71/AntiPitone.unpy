@@ -85,13 +85,15 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Programmato in java perche ai collaborattori Alessio (Git username: `rust_rello`) e Samuele (Git username: `samuele.brusegan`) l'idea di usare Rust o ancora meglio C non piaceva.
+Programmato in java perche ai collaborattori Alessio (Git username: `rust_rello`) e Samuele (Git username: `samuele-brusegan`) l'idea di usare Rust o ancora meglio C non piaceva.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 ### Built With
+
+* (https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java]
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
