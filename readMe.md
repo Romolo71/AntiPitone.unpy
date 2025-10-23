@@ -85,7 +85,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Programmato in java perche ai collaborattori Alessio (Git username: `rust_rello`) e Samuele (Git username: `samuele-brusegan`) l'idea di usare Rust o ancora meglio C non piaceva.
+Programmato in java perche ai collaborattori Alessio (Git username: `RustRello`) e Samuele (Git username: `samuele-brusegan`) l'idea di usare Rust o ancora meglio C non piaceva.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
