@@ -93,7 +93,7 @@ Programmato in java perche ai collaborattori Alessio (Git username: `rust_rello`
 
 ### Built With
 
-* (https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java]
+* ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
