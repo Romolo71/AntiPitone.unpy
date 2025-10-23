@@ -59,7 +59,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With Java</a></li>
+        <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
     <li>
@@ -85,7 +85,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Programmato in java perche ai collaborattori Alessio e Samuele l'idea di usare Rust o ancora meglio C non piaceva.: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
+Programmato in java perche ai collaborattori Alessio (Git username: `rust_rello`) e Samuele (Git username: `samuele.brusegan`) l'idea di usare Rust o ancora meglio C non piaceva.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
