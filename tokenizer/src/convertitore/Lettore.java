@@ -39,14 +39,16 @@ public class Lettore {
 
     /**
      * TODO SPIEGAZIONE METODO COME FUNZIONA E ALTRO
-     * @return
      */
     private void controllaEstensione() {
         //todo cercare se la sottostringa estensione si trova dentro al nome del file
-        
+
         //todo oltre ad aver controllato bisogna anche aggiungere l'estensione se manca
     }
 
+    /**
+     * TODO SPIEGAZIONE METODO COME FUNZIONA E ALTRO
+     */
     private boolean controllaPathNomeFile() {
 
     }
